@@ -14,18 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, Meu nome é Bianca
+### Hi 👋, Meu nome é Bianca
 Eu acredito que sempre podemos adquirir mais conhecimento e que temos sempre que fazer o máximo para realizar nossos sonhos.
 Sou uma pessoa que gosta de aprender coisas novas e estou sempre disposta a fazer de tudo para chegar no meu objetivo.
 
-Skills: Python
+Habilidades: Python
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning HTML/ CSS/ Javascript 
-- 📫 How to reach me: biancamonteiro22.06@gmail.com 
+- 🌱 Atualmente estou estudando: HTML/ CSS/ Javascript 
+- 📫 Entre em contato comigo: biancamonteiro22.06@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bianca-22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bianca-monteiro/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Bianca Monteiro)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bianca-22)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bianca-monteiro/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-22)](https://github.com/anuraghazra/github-readme-stats)
 
