@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi 👋, Meu nome é Bianca
+Estou começando a estudar para ser uma desenvolvedoras e meu foco é Back-end e eu acredito que irei conseguir!
 Eu acredito que sempre podemos adquirir mais conhecimento e que temos sempre que fazer o máximo para realizar nossos sonhos.
 Sou uma pessoa que gosta de aprender coisas novas e estou sempre disposta a fazer de tudo para chegar no meu objetivo.
 
