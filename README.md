@@ -28,9 +28,5 @@ Habilidades: Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-22)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bianca-22&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bianca-22)  
-
-![GitHub metrics](https://metrics.lecoq.io/Bianca-22)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bianca-22&show_icons=true)
 
