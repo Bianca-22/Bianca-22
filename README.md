@@ -24,7 +24,4 @@ Habilidades: Python
 - 🌱 Atualmente estou estudando: HTML/ CSS/ Javascript 
 - 📫 Entre em contato comigo: biancamonteiro22.06@gmail.com 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-22)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bianca-22&show_icons=true)
 
